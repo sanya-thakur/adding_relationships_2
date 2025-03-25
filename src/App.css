@@ -40,3 +40,6 @@
 .read-the-docs {
   color: #888;
 }
+
+.app-container { text-align: center; font-family: Arial, sans-serif; }
+.product-list { display: flex; justify-content: center; gap: 20px; }
